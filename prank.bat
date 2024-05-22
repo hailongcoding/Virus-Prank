@@ -67,8 +67,8 @@ call :load
         echo   D:::::D    D:::::D I::::I    E:::::E       EEEEEE      !!!  !!! 
         echo DDD:::::DDDDD:::::DII::::::IIEE::::::EEEEEEEE:::::E               
         echo D:::::::::::::::DD I::::::::IE::::::::::::::::::::E      !!!  !!! 
-    echo D::::::::::::DDD   I::::::::IE::::::::::::::::::::E     !!:!!!!:!!
-    echo DDDDDDDDDDDDD      IIIIIIIIIIEEEEEEEEEEEEEEEEEEEEEE      !!!  !!! 
+        echo D::::::::::::DDD   I::::::::IE::::::::::::::::::::E     !!:!!!!:!!
+        echo DDDDDDDDDDDDD      IIIIIIIIIIEEEEEEEEEEEEEEEEEEEEEE      !!!  !!! 
                                                                   
                                                                   
                                                                   
