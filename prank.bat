@@ -52,7 +52,7 @@ call :load
             :forever
             pause > nul
             call :forever
-    :jumpscare                                                                  
+:jumpscare                                                                  
         echo DDDDDDDDDDDDD      IIIIIIIIIIEEEEEEEEEEEEEEEEEEEEEE      !!!  !!! 
         echo D::::::::::::DDD   I::::::::IE::::::::::::::::::::E     !!:!!!!:!!
         echo D:::::::::::::::DD I::::::::IE::::::::::::::::::::E     !:::!!:::!
