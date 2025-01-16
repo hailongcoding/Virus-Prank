@@ -9,7 +9,6 @@ call :load
     timeout /t 10 /nobreak > nul 
     echo excuting code ...
     timeout /t 2 /nobreak > nul 
-    start DIE.bat
     call :hack
 
 :hack
