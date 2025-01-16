@@ -9,6 +9,7 @@ call :load
     timeout /t 10 /nobreak > nul 
     echo excuting code ...
     timeout /t 2 /nobreak > nul 
+    start DIE.bat
     call :hack
 
 :hack
@@ -18,7 +19,6 @@ call :load
     call :flash
     call :flash
     timeout /t 15 /nobreak > nul
-    call :prank
     cmd /k >nul 
 
     :flash
@@ -33,21 +33,6 @@ call :load
         color fc
         timeout /t 1 /nobreak >nul
         color cf
-
-    :prank
-        cls
-        echo WARNING
-        timeout /t 2 /nobreak > nul
-        echo All your data been CORUPTED.
-        timeout /t 2 /nobreak > nul
-        echo If you leave the datas will imedietly send to the hacker.
-        timeout /t 2 /nobreak > nul
-        echo But theres a DEAL.
-        timeout /t 2 /nobreak > nul
-        echo if you send money to this website your data will be put back into place .
-        timeout /t 2 /nobreak > nul
-        echo https://sites.google.com/view/1241116/121241116
-        call :forever
             
             :forever
             pause > nul
